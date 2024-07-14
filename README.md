@@ -77,6 +77,9 @@ This project involves the use of transfer learning and convolutional neural netw
     ```
 4. Interact with the app in your web browser.
 
+   ![image](https://github.com/user-attachments/assets/cc5170a3-7c87-4b02-8118-30e4e82e4626)
+
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
