@@ -1,8 +1,5 @@
 # landmark_classification-and-tagging-for-social_meida
 
-# Generative AI Internship Project
-
-This repository contains code for a generative AI internship project, including transfer learning, CNN models, and a standalone app using Voila.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
